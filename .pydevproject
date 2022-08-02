@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
+    <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+        <path>/${PROJECT_DIR_NAME}/tfx/benchmarks</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/base</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/bulk_inferrer</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/common_nodes</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/evaluator</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/example_diff</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/example_gen</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/example_validator</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/experimental</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/infra_validator</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/model_validator</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/pusher</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/schema_gen</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/statistics_gen</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/testdata/module_file</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/trainer</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/transform</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/tuner</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/components/util</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/dsl</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/examples/bert</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/examples/bigquery_ml</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/examples/chicago_taxi_pipeline</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/examples/cifar10</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/examples/custom_components</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/examples/imdb</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/examples/mnist</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/examples/penguin</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/examples/ranking</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/examples/tfjs_next_page_prediction</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/experimental</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/extensions</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/orchestration</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/scripts</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/tools</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/types</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/utils</path>
+        <path>/${PROJECT_DIR_NAME}/tfx/v1</path>
+    </pydev_pathproperty>
+</pydev_project>
